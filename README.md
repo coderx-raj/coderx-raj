@@ -27,5 +27,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=coderx-raj&icon=0&color=9)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderx-raj&label=Profile%20views&icon=0&color=9&style=flat" alt="coderx-raj" /> </p>
-
+[![]([https://visitcount.itsvg.in/api?id=coderx-raj](https://komarev.com/ghpvc/?username=coderx-raj)&icon=0&color=9)](https://visitcount.itsvg.in)
 
