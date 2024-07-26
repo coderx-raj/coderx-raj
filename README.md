@@ -2,7 +2,7 @@
 "👋 Hello, I'm Rajkumar! 🌟 🚀 Tech enthusiast | 🌐 Full-stack Developer | 📚 Lifelong Learner "
 
 
-## 🌐 Socials:
+## 🌐 Socials:<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishal24102002&label=Profile%20views&color=0e75b6&style=flat" alt="vishal24102002" /> </p>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100017294499235&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj_yadav__13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajkumaryadav13) 
 
 # 💻 Tech Stack:
