@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 "👋 Hello, I'm Rajkumar! 🌟 🚀 Tech enthusiast | 🌐 Full-stack Developer | 📚 Lifelong Learner "
 
 
